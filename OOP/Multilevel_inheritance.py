@@ -16,4 +16,4 @@ print(o.a, o.b)
 # print(o.c) Gives error:- AttributeError: 'Indian' object has no attribute 'c'
 
 o = Mumbaikar()
-print(o.a, o.b, o.c)
+# print(o.a, o.b, o.c)

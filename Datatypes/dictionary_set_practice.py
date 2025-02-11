@@ -48,6 +48,6 @@ dict1.update({name: lang})
 print(dict1)
 
 # Can you change the values inside a list which is contained in set S?
-s = {8, 7, 12, "Harry", [1,2]}
-print(s)
+# s = {8, 7, 12, "Harry", [1,2]}
+# print(s)
 # NO, LIST CANNOT BE ADDED IN A SET

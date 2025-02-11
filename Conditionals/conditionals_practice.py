@@ -57,7 +57,7 @@ else:
     print("Your name is missing")
 
 
-# Write a program to find out whether a given post is talking about “Harry” or not
+# Write a program to find out whether a given post is talking about “Samarth” or not
 post = input("Start typing whatever you want: ")
 
 if("Samarth".lower() in post.lower()):

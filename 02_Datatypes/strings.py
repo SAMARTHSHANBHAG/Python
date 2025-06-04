@@ -19,3 +19,7 @@ print(string1)
 
 a = "Samarth is a good \"boy\""
 print(a)
+
+num_string = "0123456789"
+sliced_num_string = num_string[1:8:2]
+print(sliced_num_string)

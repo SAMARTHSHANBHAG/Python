@@ -11,7 +11,7 @@ class Coder:
 
 class Programmer(worker, Coder):
     def showLanguage(self):
-        print(f" The company {self.name} works for is {self.company} and he is an expert in {self.language}")
+        print(f" The programmer {self.name} works for is {self.company} and he is an expert in {self.language}")
 
 a = Programmer()
 b = Coder

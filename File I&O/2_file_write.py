@@ -4,5 +4,5 @@ f = open("myfile.txt", "w")
 
 f.write(string1)
 
-f.close
+f.close()
 
